@@ -1,0 +1,103 @@
+:root{
+    --vermelho: red;
+    --preto: black;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: var(--preto);
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+}
+
+header #container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 10px;
+}
+
+header .logo{
+    color: var(--vermelho);
+    font-family: 'Arial Black', Times, serif;
+    font-size: 40px;
+    text-transform: uppercase;
+}
+
+header nav a {
+    text-decoration: none;
+    color: #AAA;
+    margin-right: 10px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header nav a:hover{
+    color: var(--vermelho);
+}
+
+/*main-movei*/
+.main-movie{
+    font-size: 15px;
+    background: linear-gradient(rgb(0,0,0,.50), rgba(0,0,0,.50)100%), url(/img/Sex\ Education.jpg);
+    height: 400px;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.main-movie .description{
+    margin-bottom: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+    font-size: 17px;
+}
+
+.title{
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+.author{
+    font-size: 17px;
+    
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.btn{
+    background-color: rgba(94, 91, 91, 0.685) ;
+    border: none;
+    color: white;
+    padding: 12px 15px;
+    
+    font-size: 15px; 
+    cursor: pointer;
+    transition: .3s ease all;
+}
+
+.btn:hover{
+    background-color: white;
+    color: black;
+}
+
+.btn i {
+    margin-right: 5px;
+}
+
+.container{
+    margin-left: 15px;
+}
+
+.box-series{
+    height: 100%;
+    width: 100%;
+    display: block;
+}

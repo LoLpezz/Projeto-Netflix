@@ -1,0 +1,18 @@
+@media screen and (max-width:700px){ /*Até 700px vai aplicar a formtação definida, caso contrario, vai ser aplicado as definições padrão*/
+    header #container{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .btn{
+        margin-top: 5px;
+        width: 190px;
+    }
+
+}
+
+@media screen and (max-width: 1000px) {
+    .description{
+        width: 50%;
+    }
+}
