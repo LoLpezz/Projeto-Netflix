@@ -7,10 +7,10 @@ englobar os conceitos de: como estruturar um layout, técnicas de CSS3 com conta
 <h1>Tecnologias utilizadas</h1>
 <ol>
 <li>HTML</li>
-- CSS
-- Javascript
-- JQuery
-- Fontawesome
-- Carrosel de corujas
-- Fontes do Google
+<li>CSS</li>
+<li>Javascript</li>
+<li>JQuery</li>
+<li>Fontawesome</li>
+<li>Carrosel de corujas</li>
+<li>Fontes do Google</li>
 </ol>
