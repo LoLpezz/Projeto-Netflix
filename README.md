@@ -15,7 +15,7 @@ englobar os conceitos de: como estruturar um layout, técnicas de CSS3 com conta
 <li>Fontes do Google</li>
 </ol>
 
-<h1Autor</h1>
+<h1>Autor</h1>
 <ul>
   <li>E-mail: maiconlopes20@gmail.com</li>
   <li>Linkedin: https://www.linkedin.com/in/maicon-lopes-573828210/</li>
