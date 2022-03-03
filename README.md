@@ -6,7 +6,7 @@ englobar os conceitos de: como estruturar um layout, técnicas de CSS3 com conta
 
 <h1>Tecnologias utilizadas</h1>
 <ol>
-- HTML
+<li>HTML</li>
 - CSS
 - Javascript
 - JQuery
