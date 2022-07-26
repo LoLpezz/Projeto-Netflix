@@ -18,9 +18,9 @@ englobar os conceitos de: como estruturar um layout, técnicas de CSS3 com conta
 <h3>Autor</h3>
 <ul>
   <li>E-mail: maiconlopes20@gmail.com</li>
-  <li>Linkedin: https://www.linkedin.com/in/maicon-lopes-573828210/</li>
+  <li>Linkedin: https://www.linkedin.com/in/maicon-lopes94/</li>
 </ul>
 
-
+<h4>Abaixo segue uma demonstração da funcionalidade carousel feita com JQuery</h4>
 https://user-images.githubusercontent.com/89826599/181004988-6a220d8f-7198-49c7-87c9-c7a6f78036d9.mp4
 
