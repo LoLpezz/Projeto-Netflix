@@ -22,5 +22,4 @@ englobar os conceitos de: como estruturar um layout, técnicas de CSS3 com conta
 </ul>
 
 <h4>Abaixo segue uma demonstração da funcionalidade carousel feita com JQuery, é só clicar no link e dar play</h4>
-
-
+https://user-images.githubusercontent.com/89826599/181281590-bca80a81-3e1e-45b4-821d-c93eed54267b.mp4
